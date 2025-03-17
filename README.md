@@ -1,4 +1,4 @@
-# This is a tutorial on how to run XTerm as root and as a non-root user in Kali NetHunter.
+# This is a tutorial on how to run Xterm as root and as a non-root user in Kali NetHunter
 
 ## how to run as localhost
 * `export DISPLAY=local@host:0`
