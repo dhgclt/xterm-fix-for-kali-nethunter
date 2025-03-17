@@ -10,3 +10,4 @@ how to run as root
 (xhost +local:root)
 (sudo su)
 now run xterm as root
+## Now you can run XTerm as root and as a non-root user in Kali NetPrunter Enjoy!
